@@ -26,7 +26,7 @@
 
 ## Week 4
 
-# What have I learnt thsi week?
+### What have I learnt this week?
 
 - oranges 
 - apples 
