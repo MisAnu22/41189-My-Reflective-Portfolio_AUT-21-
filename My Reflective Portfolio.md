@@ -16,3 +16,10 @@
 - dogs 
 - cats 
 
+## Week 3 
+
+### What have I learnt this week? 
+
+- **Bold**
+- *Italic* 
+- Underline
