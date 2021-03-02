@@ -8,3 +8,11 @@
 - red 
 - blue 
 
+## Week 2 
+
+### What have I learnt this week? 
+
+- frogs
+- dogs 
+- cats 
+
